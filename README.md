@@ -29,7 +29,7 @@ Evaluation of Intern framework as a tool for Functional (B2B) testing
 1. Install chromedriver as described [here](https://theintern.github.io/intern/#local-selenium)
    * or install it on Mac with ```brew install chromedriver```
 2. Install npm (bundled together with NodeJS) ```brew install node```
-3. Download [test application](https://github.com/zanox/intern-evaluation) from GitHub (not deployed yet)
+3. Download [test application](https://github.com/OleksandrGolub/intern-evaluation) from GitHub (not deployed yet)
 4. Install dependencies ```npm install``` 
 5. Make sure that ChromeDriver is running and Chrome browser is installed
    - ```chromedriver --port=4444 --url-base=wd/hub```
